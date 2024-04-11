@@ -14,12 +14,12 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: darkgray;
+	color: rgb(189, 25, 124);
 }
 
 .location>a {
 	text-decoration: none;
-	color: white;
+	color: rgb(16, 104, 114);
 }
 
 .location:hover {
@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: hwb(319 10% 32%);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgb(130, 21, 77);
 	}
 	.icons {
 		font-size: 18px;
@@ -82,7 +82,7 @@ body {
 		color: white;
 		font-size: 1.5em;
 		display: block;
-		background-color: rgba(175,133,255,1);
+		background-color: rgb(255, 133, 214);
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(38, 139, 187);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -135,7 +135,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.2em;
-		color: darkgray;
+		color: rgb(65, 91, 211);
 	}
 	.icons {
 		font-size: 11px;
@@ -147,7 +147,7 @@ body {
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgb(37, 136, 154);
 		font-size: 0.8em;
 		display: block;
 		background-color: rgba(175,133,255,1);
@@ -230,7 +230,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(../img/bg.jpg) fixed no;
+		background: url(C:\Users\zzZ\Desktop\DZ\0911.jpg) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
